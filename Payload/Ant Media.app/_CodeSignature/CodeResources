@@ -34,7 +34,7 @@
 		</data>
 		<key>Frameworks/Starscream.framework/Starscream</key>
 		<data>
-		DV52Xrc+65uglNBXJC5MIrMtkCM=
+		8gC84AHZgahukMh3ELELMPj8+1g=
 		</data>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		u4sybLff/SzmOynfp3f6r4dv32Q=
+		Tqy2DWLVjmqrUR0nqj5eUCPtiuw=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/WebRTCiOSSDK.framework/WebRTCiOSSDK</key>
 		<data>
-		d1maRLuDQ4k5i+Iq7XHfZ8VTOhg=
+		Z5fRZleWH3ndXrRG8izvUThkrVE=
 		</data>
 		<key>Frameworks/WebRTCiOSSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		u4sybLff/SzmOynfp3f6r4dv32Q=
+		Tqy2DWLVjmqrUR0nqj5eUCPtiuw=
 		</data>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTCiOSSDK.framework/WebRTCiOSSDK</key>
 		<data>
-		d1maRLuDQ4k5i+Iq7XHfZ8VTOhg=
+		Z5fRZleWH3ndXrRG8izvUThkrVE=
 		</data>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTCiOSSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>PlugIns/mediadevice.appex/_CodeSignature/CodeResources</key>
 		<data>
-		JQrpTHrJgX2niCRUXHsyE40jRbo=
+		drefV0eNUpQLrYmLog8a/+oVhqE=
 		</data>
 		<key>PlugIns/mediadevice.appex/embedded.mobileprovision</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>PlugIns/mediadevice.appex/mediadevice</key>
 		<data>
-		CLmNFlaGik8C38+tSzWyYwcjAn8=
+		U9A1ls8CBdQhgrS3ZN1lwD8Zk/U=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -240,7 +240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aFxV9I/dDFZJm+oEEEPoOWWVMY+wcN5/oZ5KbKRIFzE=
+			BhdxqJ6QslhP6oNq9SRGDOqEeQH2J+9b3E5l+vSlh6E=
 			</data>
 		</dict>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0/uhCOhPzSilb4aJgHbgGthkde9K0GHoV4fg1BwmNHM=
+			NMfymvV/Ncb0xiC1NGbJIubrQzw0a5aKm/Rz3woV8FI=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -282,7 +282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AM9UNqbuYGoHyLdTyjE/geFxktI+fC+wDm+7K1wrEAE=
+			PjETiirvapHAjpWURApLrsnT+E6qC8hYKBo9IocXZ3Q=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTCiOSSDK.framework/_CodeSignature/CodeResources</key>
@@ -422,7 +422,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0/uhCOhPzSilb4aJgHbgGthkde9K0GHoV4fg1BwmNHM=
+			NMfymvV/Ncb0xiC1NGbJIubrQzw0a5aKm/Rz3woV8FI=
 			</data>
 		</dict>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -443,7 +443,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AM9UNqbuYGoHyLdTyjE/geFxktI+fC+wDm+7K1wrEAE=
+			PjETiirvapHAjpWURApLrsnT+E6qC8hYKBo9IocXZ3Q=
 			</data>
 		</dict>
 		<key>PlugIns/mediadevice.appex/Frameworks/WebRTCiOSSDK.framework/_CodeSignature/CodeResources</key>
@@ -464,7 +464,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GZgBUhyedhDQiJ2je/8VB+4EHhhVk+6403hm9Lh7Ndg=
+			8TGHPFpLK3kHUZzGU8I1GIJiY/gLySCaaRCFVut6lL4=
 			</data>
 		</dict>
 		<key>PlugIns/mediadevice.appex/embedded.mobileprovision</key>
@@ -478,7 +478,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b2SgtvBqkKbMuGij8NHSw8TIdjfx6XJd+zi1EJfcdEs=
+			VjBpJXIflia/SKJp1HF+0GJ2tyqUJwaMyX6gsGxHQ/g=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>

@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
 		<data>
-		kguUKMkUCb/ZXNd4ZZ0k8AKBXI8=
+		bzlJcRJNYiKDo5FtfVrUUSwXoSY=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		gVqFABhhK4jELFfL7lkQ+SBK4zw=
+		G2Ve0BUBFgCnfOeXK0uGQO1sXfA=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/XCTestCore.framework/XCTestCore</key>
 		<data>
-		CC48m8mhmOktGoZnO14difgjhgE=
+		FnHQeTX/tYvF9ItsHNkNQ7vWml0=
 		</data>
 		<key>Frameworks/XCTestCore.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Frameworks/XCUIAutomation.framework/XCUIAutomation</key>
 		<data>
-		jNhA+ikFTMoCPH47E/Rx6q60wsE=
+		3ukbU8yaX1urccIYWXN4Qbj/WJY=
 		</data>
 		<key>Frameworks/XCUIAutomation.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/XCUnit.framework/XCUnit</key>
 		<data>
-		eDWsOX5NXgajErqmGxvjH/6PDAE=
+		9yCyHmUO7wATioKu8H2EQdeRsEA=
 		</data>
 		<key>Frameworks/XCUnit.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -120,6 +120,30 @@
 		<data>
 		32jo0usn6RqIaCYSP4s0atHzyUk=
 		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeDirectory</key>
+		<data>
+		SMdqiZ6ZUFyXnc5lLgECOUznE0c=
+		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeEntitlements</key>
+		<data>
+		QYmQ93RcoQeSUFQFxYOVOlZv9aE=
+		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeRequirements</key>
+		<data>
+		SO3UBPRtlAzbZwCZlpY5CaFyJeg=
+		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		M5IforGUiGesL6YlOTGY3Q3/fO0=
+		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		F2C1niIxIr3ygL974mE1SVNsd/s=
+		</data>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeSignature</key>
+		<data>
+		4gJnS7lgCZSvmJvL0OOkKg4XUSM=
+		</data>
 		<key>PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Info.plist</key>
 		<data>
 		y6jHA4IKTFEeV+IwupVBxLJQupY=
@@ -138,7 +162,7 @@
 		</data>
 		<key>PlugIns/WebDriverAgentRunner.xctest/WebDriverAgentRunner</key>
 		<data>
-		NZ5dk7UtXUpv+kFsBIW9s6hhpEg=
+		jIrzufZJlHS6WaAilu5YWE0xExk=
 		</data>
 		<key>PlugIns/WebDriverAgentRunner.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -146,7 +170,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		rPjl2qbpD7HUSG9YW+E+RkaPGtM=
+		dIzoR3g4Klt6rLZeUVCIfCqbw9k=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -162,7 +186,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bkRzbBSopy2+Q729r0qlb/Y1xfFWc9wnp6hj76FjPRc=
+			Qt5jHqH0X4AOnMT8+giS9GsrRK+YdSU7VpFNRgTu3S0=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
@@ -190,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6z0pOylmvgkEm3Eal5TE4IV7AizbY14Mn2xhHm5Kro=
+			y1X6GXXpIBRf+bROakhwifjXXWSk0ZrsEsyVjD0egz0=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
@@ -218,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q1PG+x72MNftoOJq4RiVfpQl2uxtwZZSF+b4zEKRTsg=
+			7m63ilbwIY9V1mK5ECgOT4rESwG85WOMiGOXUYao43w=
 			</data>
 		</dict>
 		<key>Frameworks/XCTestCore.framework/_CodeSignature/CodeResources</key>
@@ -274,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xjU/k7uBsctTn1HM5Pk56mq3F2NJp7kAzQhzgXUR3kg=
+			meWkoBKWjJSL8PMx3rLaKNjnKA4DF/6nfFbRZOqRQJg=
 			</data>
 		</dict>
 		<key>Frameworks/XCUIAutomation.framework/_CodeSignature/CodeResources</key>
@@ -302,7 +326,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KP0mzOKSfcKgxQlTaW4ogui55r4X9xKvZ9hO4f2WnJk=
+			R7lKiwqXF81eqmqJtLI5juQIclA/YD8q9BZgPrLbhWE=
 			</data>
 		</dict>
 		<key>Frameworks/XCUnit.framework/_CodeSignature/CodeResources</key>
@@ -340,6 +364,48 @@
 			plS7WHyvvXrXyROfmZPxqDACvgliAdJN+uzWTKzbNbs=
 			</data>
 		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sBr7Lz0oGWjkdBCMFY9wt1xWLf6p2FXYitaAXcr3l0w=
+			</data>
+		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeEntitlements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s1sqiXLnk98DEI+J1Yi4Ozwv8AUPZeX6gAOaNZjEJQw=
+			</data>
+		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xHfgjths/XDWbeNEaWlSuzHXkMVUgQUQfwPbtUW4eGg=
+			</data>
+		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jfIEnm1P+xnReltJMvnvn96ej/U5Ccip0Scqs5DUxkg=
+			</data>
+		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZmiyYluQAbXjWuc7DEx4WA4A0q1kmC3bYdEPjIFNVWM=
+			</data>
+		</dict>
+		<key>PlugIns/WebDriverAgentRunner.xctest.dSYM/Contents/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k6oHcpz1xFHe8axLltbeCbCce797fez8ciJw/q1tee0=
+			</data>
+		</dict>
 		<key>PlugIns/WebDriverAgentRunner.xctest/Frameworks/WebDriverAgentLib.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -372,7 +438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k3vCUuMDY5M/dvEmlefPshgOQd2hZOnT+EgdB+l5Yo0=
+			C1kxQSrkQHYQVBjYFoX2ImxT7T8AM6hJDchOWhE/A+k=
 			</data>
 		</dict>
 		<key>PlugIns/WebDriverAgentRunner.xctest/_CodeSignature/CodeResources</key>
@@ -386,7 +452,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yct0rl4q3+2yj4HC5Lt7RJUitVJmjTHzKCTQ+Z8tgtM=
+			W4HE5sX7v+jWtD5QoiYpIeobw+mG3CuCy/ECOZzGrlg=
 			</data>
 		</dict>
 	</dict>
